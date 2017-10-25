@@ -1,0 +1,2 @@
+Introducir el numero n:2
+Suma: 3, producto: 2

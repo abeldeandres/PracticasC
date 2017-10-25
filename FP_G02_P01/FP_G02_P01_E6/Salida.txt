@@ -1,0 +1,3 @@
+Introducir el primer numero: 12
+Introducir el segundo numero: 15
+El mayor es: 15

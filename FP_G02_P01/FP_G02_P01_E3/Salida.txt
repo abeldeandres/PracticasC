@@ -1,0 +1,14 @@
+A)Entrada 60:
+Introduzca numero de segundos:
+60
+60seg. Son 1 min. y 0 seg.
+
+B)Entrada 129:
+Introduzca numero de segundos:
+129
+129seg. Son 2 min. y 9 seg.
+
+C)Entrada 230:
+Introduzca numero de segundos:
+230
+230seg. Son 3 min. y 50 seg.

@@ -1,0 +1,5 @@
+Division entera:5/4 es 1
+Division entera:6/3 es 2
+Division entera:7/4 es 1
+Division entera:7./4. es 1.750000
+Division entera:7./4 es 1.750000
